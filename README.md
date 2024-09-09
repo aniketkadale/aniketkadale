@@ -22,8 +22,6 @@ width: "500" /></p>
 <a href="https://twitter.com/aniket18_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniket18_codes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aniket-kadale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-kadale" height="30" width="40" /></a>
 <a href="https://instagram.com/_aniket.0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aniket.0x" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aniketkadale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aniketkadale" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kadaleaniket08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kadaleaniket08" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/aniketkadale18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/aniketkadale18/" height="30" width="40" /></a>
 </p>
 
