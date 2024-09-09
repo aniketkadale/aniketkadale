@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A passionate full stack developer & a problem solver from India</h3>
 <p align = "center"> <img src = "https://camo.githubusercontent.com/cc4401b6e2abb4e0760cfa15a1f645d6201df44583c0a32c8cd0f549b1f7df1c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a705435674779415067766e757a6f42466b2f67697068792e676966" alt = "banner"  
-/></p>
+width: "500" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketkadale&label=Profile%20views&color=0e75b6&style=flat" alt="aniketkadale" /> </p>
 
